@@ -11,5 +11,8 @@
 (require 'init-el-get) ; Load package manager and install packages
 (require 'init-customization)
 
+;; Language specifc configuration
+(require 'init-clojure)
+
 (provide 'init)
 ;;; init.el ends here
