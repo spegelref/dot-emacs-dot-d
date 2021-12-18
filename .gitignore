@@ -1,0 +1,10 @@
+# Ignore files auto generated on startup and usage
+elpa/
+el-get/
+custom.el
+
+# Don't ignore gpg config.
+!elpa/gnupg/gpg.conf
+
+# Ignore temporary emacs files
+*~
