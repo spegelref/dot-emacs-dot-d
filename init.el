@@ -13,6 +13,7 @@
 
 ;; Language specifc configuration
 (require 'init-clojure)
+(require 'init-clisp)
 
 (provide 'init)
 ;;; init.el ends here

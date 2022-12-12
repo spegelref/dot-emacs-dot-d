@@ -30,6 +30,11 @@
 (el-get-bundle sesman :checkout "v0.3.2")
 
 (el-get-bundle cider :checkout "v1.1.0")
+
+;;; Common Lisp specific packages
+(el-get-bundle slime)
+
+;;; Common Lisp packages 
 (el-get-bundle paredit)
 (el-get-bundle rainbow-delimiters)
 
