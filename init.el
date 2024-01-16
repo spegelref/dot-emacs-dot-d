@@ -12,10 +12,13 @@
 (setq inhibit-startup-message t)
 
 
-;; Setup subsystems
+;;; Setup subsystems
 
 (require 'init-elpa) ; Installs required packages.
 
+
+;; Language specifc configuration
+(require 'init-erlang)
 
 
 (provide 'init)
