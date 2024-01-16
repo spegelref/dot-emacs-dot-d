@@ -1,0 +1,6 @@
+# Ignore backup files
+*~
+
+# Ignore cache directories
+eln-cache
+
