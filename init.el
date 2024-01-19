@@ -17,7 +17,7 @@
 (require 'init-elpa) ; Installs required packages.
 
 
-;; Language specifc configuration
+;; Language specific configuration
 (require 'init-erlang)
 
 
